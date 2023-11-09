@@ -19,7 +19,8 @@
         app:srcCompat="@drawable/a"
         android:clickable="true"
         android:focusable="true"
-        android:background="@drawable/ripple"/>
+        android:background="@drawable/ripple"
+        />
 
     <ImageView
         android:id="@+id/imageView2"
